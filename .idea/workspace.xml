@@ -60,7 +60,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-259" />
+            <state relative-caret-position="-40" />
           </provider>
         </entry>
       </file>
@@ -114,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="126" />
     <option name="y" value="47" />
     <option name="width" value="1070" />
@@ -132,6 +132,11 @@
             <path>
               <item name="test-form" type="b2602c69:ProjectViewProjectNode" />
               <item name="test-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-form" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,21 +180,21 @@
       <option name="presentableId" value="Default" />
       <updated>1549894988211</updated>
       <workItem from="1549894994329" duration="54056000" />
-      <workItem from="1550223461350" duration="580000" />
+      <workItem from="1550223461350" duration="861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54636000" />
+    <option name="totallyTimeSpent" value="54917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1547" height="875" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.5751366" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.040983606" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -319,7 +324,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259" />
+        <state relative-caret-position="-40" />
       </provider>
     </entry>
   </component>
