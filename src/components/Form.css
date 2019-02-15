@@ -1,0 +1,31 @@
+div {
+    margin: 5px;
+}
+
+form {
+    background-color: #f5f4f4;
+}
+
+fieldset {
+    width: 440px;
+    border-width: 1px;
+    border-color: #47afbf4f;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container {
+    margin: 0;
+}
+
+input, select {
+    padding: 5px;
+    width: 400px;
+    background-image: none;
+}
+
+select {
+    /*width: 260px;*/
+}
