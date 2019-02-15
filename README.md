@@ -1,6 +1,4 @@
-# Redux Crash Course
-
-> Code from the "Redux Crash Course With React" video. Simple implementation of Redux using a couple React components.
+# Redux Form
 
 ## Quick Start
 
